@@ -47,6 +47,7 @@ Response: {
   "id": 1,
   "name": "Tenant Name"
 }
+
 POST /project-metadata
 Create a new project metadata record.
 
